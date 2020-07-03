@@ -1,0 +1,57 @@
+.serif {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+.sansserif{
+    font-family: 'Times New Roman';
+}
+h2{
+    color:rgb(89, 8, 196);
+    font-size: 14px;
+    font-weight: normal;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    }
+p {
+    text-align: left;
+}
+* {
+    margin: 1;
+    padding: 1;
+  }
+  p span {
+     color: orangered;
+     font-size: 20px;
+  }
+  h1 {
+      color: palegreen;
+  }
+  h3, h4, h5, h6 {
+      color: purple;
+  }
+  p em {
+      color: tomato;
+  }
+  
+  p a {
+      color: salmon;
+  }
+  p span{
+      text-decoration: underline;
+  }
+  p a {
+      text-decoration: underline;
+  }
+  #destacado {
+      color: red;
+  }
+  .destacado {
+      color: silver;
+  }
+  #bg{
+	height: 300px;
+	width: 200px;
+	background-color:greenyellow;
+	background-repeat: no-repeat;
+	background-position: center top;
+}
